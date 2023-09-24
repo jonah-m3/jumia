@@ -1,0 +1,28 @@
+
+.body-content{
+    background-color: rgb(233, 119, 12);
+    /* border: 10px solid; */
+    
+}
+.start{
+width: 200px;   
+}
+.max{
+    width:250psx;
+    height: 150px;
+}
+.contact{
+    width: 250px;
+}
+.download{
+    width: 220px;
+    height: 180px;
+}
+.Jumia-Brand{
+    width: 320px;
+}
+.flex_container{
+    display: flex;
+    gap: 5px;
+    padding: 1px;
+}
